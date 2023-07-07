@@ -1,0 +1,3421 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+
+<channel>
+
+<atom:link href="https://ohnekopf.github.io/puprss/int.rss" rel="self" type="application/rss+xml"/>
+
+<title>Popup Chinese: Intermediate</title>
+
+<link>http://www.popupchinese.com</link>
+
+<pubDate>Thu, 06 Jul 2023 21:00:00 +0000</pubDate>
+
+<lastBuildDate>Thu, 06 Jul 2023 20:00:00 +0000</lastBuildDate>
+
+<language>en</language>
+
+<copyright>Popup Chinese. This RSS feed is not managed by them</copyright>
+
+<webMaster>ohnekopf at github</webMaster>
+
+<description>Intermediate level episodes of mandarin chinese podcast Popup Chinese</description>
+
+<itunes:subtitle>Popup Chinese Intermediate</itunes:subtitle>
+
+<image> 
+
+	<url>http://popupchinese.org/img/university8.png</url>
+
+	<title>Popup Chinese</title>
+
+	<link>http://popupchinese.com/</link>
+
+</image> 
+
+<item>
+
+	<title>intermediate: the newsroom</title>
+
+	<itunes:summary><![CDATA[intermediate: the newsroom
+		<a href="http://popupchinese.com/data/1240/intermediate-the-newsroom.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1240/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1240/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1240/audio.mp3" length="10347458" type="audio/mpeg" />
+
+	<pubDate>Wed, 09 Jan 2013 16:28:11 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1240/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the gods of powerpoint</title>
+
+	<itunes:summary><![CDATA[intermediate: the gods of powerpoint
+		<a href="http://popupchinese.com/data/1232/intermediate-the-gods-of-powerpoint.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1232/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1232/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1232/audio.mp3" length="13036503" type="audio/mpeg" />
+
+	<pubDate>Wed, 12 Dec 2012 05:14:23 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1232/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the acrobats</title>
+
+	<itunes:summary><![CDATA[intermediate: the acrobats
+		<a href="http://popupchinese.com/data/1231/intermediate-the-acrobats.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1231/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1231/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1231/audio.mp3" length="10775240" type="audio/mpeg" />
+
+	<pubDate>Tue, 20 Nov 2012 06:08:56 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1231/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: book club</title>
+
+	<itunes:summary><![CDATA[intermediate: book club
+		<a href="http://popupchinese.com/data/1228/intermediate-book-club.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1228/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1228/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1228/audio.mp3" length="9177800" type="audio/mpeg" />
+
+	<pubDate>Thu, 15 Nov 2012 08:07:50 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1228/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: without a clue</title>
+
+	<itunes:summary><![CDATA[intermediate: without a clue
+		<a href="http://popupchinese.com/data/1226/intermediate-without-a-clue.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1226/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1226/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1226/audio.mp3" length="10731772" type="audio/mpeg" />
+
+	<pubDate>Thu, 01 Nov 2012 21:25:44 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1226/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the cctv minority show</title>
+
+	<itunes:summary><![CDATA[intermediate: the cctv minority show
+		<a href="http://popupchinese.com/data/1222/intermediate-the-cctv-minority-show.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1222/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1222/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1222/audio.mp3" length="14378027" type="audio/mpeg" />
+
+	<pubDate>Thu, 18 Oct 2012 10:49:29 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1222/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: mothers secret past</title>
+
+	<itunes:summary><![CDATA[intermediate: mothers secret past
+		<a href="http://popupchinese.com/data/1208/intermediate-mothers-secret-past.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1208/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1208/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1208/audio.mp3" length="11166282" type="audio/mpeg" />
+
+	<pubDate>Mon, 15 Oct 2012 18:04:47 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1208/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: corn batman</title>
+
+	<itunes:summary><![CDATA[intermediate: corn batman
+		<a href="http://popupchinese.com/data/1210/intermediate-corn-batman.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1210/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1210/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1210/audio.mp3" length="14579212" type="audio/mpeg" />
+
+	<pubDate>Thu, 20 Sep 2012 21:17:03 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1210/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the ayi strikes back</title>
+
+	<itunes:summary><![CDATA[intermediate: the ayi strikes back
+		<a href="http://popupchinese.com/data/1205/intermediate-the-ayi-strikes-back.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1205/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1205/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1205/audio.mp3" length="10538340" type="audio/mpeg" />
+
+	<pubDate>Thu, 13 Sep 2012 11:51:09 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1205/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the french revolution</title>
+
+	<itunes:summary><![CDATA[intermediate: the french revolution
+		<a href="http://popupchinese.com/data/1202/intermediate-the-french-revolution.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1202/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1202/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1202/audio.mp3" length="12206165" type="audio/mpeg" />
+
+	<pubDate>Mon, 03 Sep 2012 15:23:24 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1202/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the linguistic massacre</title>
+
+	<itunes:summary><![CDATA[intermediate: the linguistic massacre
+		<a href="http://popupchinese.com/data/1193/intermediate-the-linguistic-massacre.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1193/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1193/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1193/audio.mp3" length="16039812" type="audio/mpeg" />
+
+	<pubDate>Mon, 13 Aug 2012 11:45:54 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1193/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: suicidal tendencies</title>
+
+	<itunes:summary><![CDATA[intermediate: suicidal tendencies
+		<a href="http://popupchinese.com/data/1181/intermediate-suicidal-tendencies.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1181/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1181/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1181/audio.mp3" length="12247271" type="audio/mpeg" />
+
+	<pubDate>Wed, 25 Jul 2012 04:57:05 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1181/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: knife to a gunfight</title>
+
+	<itunes:summary><![CDATA[intermediate: knife to a gunfight
+		<a href="http://popupchinese.com/data/1180/intermediate-knife-to-a-gunfight.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1180/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1180/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1180/audio.mp3" length="13355553" type="audio/mpeg" />
+
+	<pubDate>Mon, 27 May 2013 04:34:44 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1180/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: our hong kong subsidiary</title>
+
+	<itunes:summary><![CDATA[intermediate: our hong kong subsidiary
+		<a href="http://popupchinese.com/data/1174/intermediate-our-hong-kong-subsidiary.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1174/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1174/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1174/audio.mp3" length="11478958" type="audio/mpeg" />
+
+	<pubDate>Thu, 28 Jun 2012 10:40:53 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1174/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: crossing the border</title>
+
+	<itunes:summary><![CDATA[intermediate: crossing the border
+		<a href="http://popupchinese.com/data/1169/intermediate-crossing-the-border.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1169/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1169/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1169/audio.mp3" length="9507089" type="audio/mpeg" />
+
+	<pubDate>Thu, 21 Jun 2012 08:54:11 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1169/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the state bowling champion</title>
+
+	<itunes:summary><![CDATA[intermediate: the state bowling champion
+		<a href="http://popupchinese.com/data/1166/intermediate-the-state-bowling-champion.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1166/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1166/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1166/audio.mp3" length="12168674" type="audio/mpeg" />
+
+	<pubDate>Tue, 12 Jun 2012 08:07:21 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1166/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: beijing autopia 2157</title>
+
+	<itunes:summary><![CDATA[intermediate: beijing autopia 2157
+		<a href="http://popupchinese.com/data/1161/intermediate-beijing-autopia-2157.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1161/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1161/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1161/audio.mp3" length="12511254" type="audio/mpeg" />
+
+	<pubDate>Thu, 31 May 2012 04:20:59 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1161/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: occupational hazard</title>
+
+	<itunes:summary><![CDATA[intermediate: occupational hazard
+		<a href="http://popupchinese.com/data/1150/intermediate-occupational-hazard.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1150/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1150/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1150/audio.mp3" length="12169844" type="audio/mpeg" />
+
+	<pubDate>Thu, 17 May 2012 08:42:36 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1150/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: son of gump</title>
+
+	<itunes:summary><![CDATA[intermediate: son of gump
+		<a href="http://popupchinese.com/data/1140/intermediate-son-of-gump.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1140/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1140/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1140/audio.mp3" length="11153117" type="audio/mpeg" />
+
+	<pubDate>Mon, 10 Sep 2012 02:25:52 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1140/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the saga of the bottle cap</title>
+
+	<itunes:summary><![CDATA[intermediate: the saga of the bottle cap
+		<a href="http://popupchinese.com/data/1145/intermediate-the-saga-of-the-bottle-cap.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1145/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1145/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1145/audio.mp3" length="10408251" type="audio/mpeg" />
+
+	<pubDate>Sun, 22 Apr 2012 22:14:08 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1145/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: memories of high school</title>
+
+	<itunes:summary><![CDATA[intermediate: memories of high school
+		<a href="http://popupchinese.com/data/1141/intermediate-memories-of-high-school.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1141/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1141/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1141/audio.mp3" length="9536659" type="audio/mpeg" />
+
+	<pubDate>Tue, 17 Apr 2012 16:47:53 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1141/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: where did you put the plunger</title>
+
+	<itunes:summary><![CDATA[intermediate: where did you put the plunger
+		<a href="http://popupchinese.com/data/1132/intermediate-where-did-you-put-the-plunger.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1132/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1132/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1132/audio.mp3" length="15080571" type="audio/mpeg" />
+
+	<pubDate>Mon, 02 Apr 2012 16:11:54 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1132/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: excavation and betrayal</title>
+
+	<itunes:summary><![CDATA[intermediate: excavation and betrayal
+		<a href="http://popupchinese.com/data/1130/intermediate-excavation-and-betrayal.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1130/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1130/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1130/audio.mp3" length="10074301" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Mar 2012 03:22:23 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1130/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: a plunge from the cliff</title>
+
+	<itunes:summary><![CDATA[intermediate: a plunge from the cliff
+		<a href="http://popupchinese.com/data/1121/intermediate-a-plunge-from-the-cliff.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1121/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1121/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1121/audio.mp3" length="13318898" type="audio/mpeg" />
+
+	<pubDate>Mon, 03 Jun 2013 05:47:45 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1121/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the next generation</title>
+
+	<itunes:summary><![CDATA[intermediate: the next generation
+		<a href="http://popupchinese.com/data/1110/intermediate-the-next-generation.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1110/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1110/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1110/audio.mp3" length="12222465" type="audio/mpeg" />
+
+	<pubDate>Sat, 03 Mar 2012 09:45:11 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1110/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the satellite conspiracy</title>
+
+	<itunes:summary><![CDATA[intermediate: the satellite conspiracy
+		<a href="http://popupchinese.com/data/1102/intermediate-the-satellite-conspiracy.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1102/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1102/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1102/audio.mp3" length="13000642" type="audio/mpeg" />
+
+	<pubDate>Mon, 04 Jun 2012 08:47:43 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1102/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: a perversion of justice</title>
+
+	<itunes:summary><![CDATA[intermediate: a perversion of justice
+		<a href="http://popupchinese.com/data/1087/intermediate-a-perversion-of-justice.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1087/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1087/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1087/audio.mp3" length="10858581" type="audio/mpeg" />
+
+	<pubDate>Thu, 13 Sep 2012 06:44:59 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1087/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the ultimatum</title>
+
+	<itunes:summary><![CDATA[intermediate: the ultimatum
+		<a href="http://popupchinese.com/data/1085/intermediate-the-ultimatum.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1085/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1085/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1085/audio.mp3" length="10195990" type="audio/mpeg" />
+
+	<pubDate>Thu, 19 Jan 2012 12:29:33 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1085/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the fleet street murders</title>
+
+	<itunes:summary><![CDATA[intermediate: the fleet street murders
+		<a href="http://popupchinese.com/data/1078/intermediate-the-fleet-street-murders.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1078/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1078/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1078/audio.mp3" length="11793284" type="audio/mpeg" />
+
+	<pubDate>Tue, 03 Jan 2012 09:16:17 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1078/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: asking for directions</title>
+
+	<itunes:summary><![CDATA[intermediate: asking for directions
+		<a href="http://popupchinese.com/data/1064/intermediate-asking-for-directions.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1064/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1064/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1064/audio.mp3" length="12914000" type="audio/mpeg" />
+
+	<pubDate>Sun, 01 Jan 2012 01:19:14 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1064/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: chinese drinking games</title>
+
+	<itunes:summary><![CDATA[intermediate: chinese drinking games
+		<a href="http://popupchinese.com/data/1062/intermediate-chinese-drinking-games.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1062/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1062/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1062/audio.mp3" length="12103305" type="audio/mpeg" />
+
+	<pubDate>Sun, 01 Jan 2012 01:18:30 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1062/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the unsuccessful journey</title>
+
+	<itunes:summary><![CDATA[intermediate: the unsuccessful journey
+		<a href="http://popupchinese.com/data/1053/intermediate-the-unsuccessful-journey.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1053/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1053/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1053/audio.mp3" length="10601536" type="audio/mpeg" />
+
+	<pubDate>Sun, 01 Jan 2012 01:16:58 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1053/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: dwarf net epoch park</title>
+
+	<itunes:summary><![CDATA[intermediate: dwarf net epoch park
+		<a href="http://popupchinese.com/data/1047/intermediate-dwarf-net-epoch-park.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1047/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1047/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1047/audio.mp3" length="10529417" type="audio/mpeg" />
+
+	<pubDate>Sun, 01 Jan 2012 01:14:54 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1047/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: drinks with the in laws</title>
+
+	<itunes:summary><![CDATA[intermediate: drinks with the in laws
+		<a href="http://popupchinese.com/data/1042/intermediate-drinks-with-the-in-laws.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1042/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1042/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1042/audio.mp3" length="11609277" type="audio/mpeg" />
+
+	<pubDate>Sun, 01 Jan 2012 01:12:48 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1042/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the famous detective macgregor</title>
+
+	<itunes:summary><![CDATA[intermediate: the famous detective macgregor
+		<a href="http://popupchinese.com/data/1041/intermediate-the-famous-detective-macgregor.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1041/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1041/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1041/audio.mp3" length="11198632" type="audio/mpeg" />
+
+	<pubDate>Sun, 01 Jan 2012 01:12:27 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1041/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: doctor himmels laboratory</title>
+
+	<itunes:summary><![CDATA[intermediate: doctor himmels laboratory
+		<a href="http://popupchinese.com/data/1036/intermediate-doctor-himmels-laboratory.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1036/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1036/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1036/audio.mp3" length="10463170" type="audio/mpeg" />
+
+	<pubDate>Sun, 01 Jan 2012 01:10:39 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1036/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the dinner party</title>
+
+	<itunes:summary><![CDATA[intermediate: the dinner party
+		<a href="http://popupchinese.com/data/1033/intermediate-the-dinner-party.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1033/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1033/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1033/audio.mp3" length="11404059" type="audio/mpeg" />
+
+	<pubDate>Sun, 01 Jan 2012 01:09:25 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1033/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: seafaring in the industrial age</title>
+
+	<itunes:summary><![CDATA[intermediate: seafaring in the industrial age
+		<a href="http://popupchinese.com/data/1028/intermediate-seafaring-in-the-industrial-age.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1028/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1028/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1028/audio.mp3" length="10901359" type="audio/mpeg" />
+
+	<pubDate>Sun, 01 Jan 2012 01:07:37 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1028/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: insider gossip</title>
+
+	<itunes:summary><![CDATA[intermediate: insider gossip
+		<a href="http://popupchinese.com/data/1026/intermediate-insider-gossip.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1026/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1026/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1026/audio.mp3" length="11183523" type="audio/mpeg" />
+
+	<pubDate>Sun, 01 Jan 2012 01:06:56 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1026/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the shared apartment</title>
+
+	<itunes:summary><![CDATA[intermediate: the shared apartment
+		<a href="http://popupchinese.com/data/1019/intermediate-the-shared-apartment.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1019/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1019/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1019/audio.mp3" length="10519177" type="audio/mpeg" />
+
+	<pubDate>Sun, 01 Jan 2012 01:04:23 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1019/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: murder in the red chamber</title>
+
+	<itunes:summary><![CDATA[intermediate: murder in the red chamber
+		<a href="http://popupchinese.com/data/1016/intermediate-murder-in-the-red-chamber.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1016/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1016/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1016/audio.mp3" length="13569068" type="audio/mpeg" />
+
+	<pubDate>Sun, 01 Jan 2012 01:03:05 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1016/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: captains of finance</title>
+
+	<itunes:summary><![CDATA[intermediate: captains of finance
+		<a href="http://popupchinese.com/data/1008/intermediate-captains-of-finance.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1008/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1008/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1008/audio.mp3" length="10565236" type="audio/mpeg" />
+
+	<pubDate>Sun, 01 Jan 2012 01:00:36 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1008/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: a taste of silicon valley china</title>
+
+	<itunes:summary><![CDATA[intermediate: a taste of silicon valley china
+		<a href="http://popupchinese.com/data/1007/intermediate-a-taste-of-silicon-valley-china.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/1007/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/1007/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/1007/audio.mp3" length="14726500" type="audio/mpeg" />
+
+	<pubDate>Sun, 01 Jan 2012 01:00:14 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/1007/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: crash landing</title>
+
+	<itunes:summary><![CDATA[intermediate: crash landing
+		<a href="http://popupchinese.com/data/999/intermediate-crash-landing.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/999/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/999/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/999/audio.mp3" length="11459815" type="audio/mpeg" />
+
+	<pubDate>Sun, 01 Jan 2012 00:57:54 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/999/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: crisis in washington</title>
+
+	<itunes:summary><![CDATA[intermediate: crisis in washington
+		<a href="http://popupchinese.com/data/995/intermediate-crisis-in-washington.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/995/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/995/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/995/audio.mp3" length="860433" type="audio/mpeg" />
+
+	<pubDate>Sun, 01 Jan 2012 00:57:08 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/995/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: a bad china day for dashan</title>
+
+	<itunes:summary><![CDATA[intermediate: a bad china day for dashan
+		<a href="http://popupchinese.com/data/993/intermediate-a-bad-china-day-for-dashan.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/993/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/993/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/993/audio.mp3" length="10903720" type="audio/mpeg" />
+
+	<pubDate>Sun, 01 Jan 2012 00:56:55 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/993/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: cosplay jiang zemin</title>
+
+	<itunes:summary><![CDATA[intermediate: cosplay jiang zemin
+		<a href="http://popupchinese.com/data/987/intermediate-cosplay-jiang-zemin.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/987/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/987/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/987/audio.mp3" length="12987769" type="audio/mpeg" />
+
+	<pubDate>Sun, 01 Jan 2012 00:55:43 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/987/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: a lifetime of remorse</title>
+
+	<itunes:summary><![CDATA[intermediate: a lifetime of remorse
+		<a href="http://popupchinese.com/data/982/intermediate-a-lifetime-of-remorse.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/982/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/982/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/982/audio.mp3" length="12848129" type="audio/mpeg" />
+
+	<pubDate>Sun, 01 Jan 2012 00:54:21 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/982/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the secret nazi threat part ii</title>
+
+	<itunes:summary><![CDATA[intermediate: the secret nazi threat part ii
+		<a href="http://popupchinese.com/data/975/intermediate-the-secret-nazi-threat-part-ii.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/975/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/975/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/975/audio.mp3" length="10634743" type="audio/mpeg" />
+
+	<pubDate>Mon, 24 Sep 2012 07:10:20 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/975/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the secret nazi threat</title>
+
+	<itunes:summary><![CDATA[intermediate: the secret nazi threat
+		<a href="http://popupchinese.com/data/962/intermediate-the-secret-nazi-threat.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/962/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/962/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/962/audio.mp3" length="10610480" type="audio/mpeg" />
+
+	<pubDate>Sun, 01 Jan 2012 00:52:14 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/962/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: military escalation</title>
+
+	<itunes:summary><![CDATA[intermediate: military escalation
+		<a href="http://popupchinese.com/data/957/intermediate-military-escalation.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/957/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/957/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/957/audio.mp3" length="10875822" type="audio/mpeg" />
+
+	<pubDate>Fri, 30 Mar 2012 00:01:36 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/957/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: a serial problem</title>
+
+	<itunes:summary><![CDATA[intermediate: a serial problem
+		<a href="http://popupchinese.com/data/955/intermediate-a-serial-problem.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/955/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/955/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/955/audio.mp3" length="11863564" type="audio/mpeg" />
+
+	<pubDate>Sun, 01 Jan 2012 00:50:56 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/955/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the sleeping beauty</title>
+
+	<itunes:summary><![CDATA[intermediate: the sleeping beauty
+		<a href="http://popupchinese.com/data/942/intermediate-the-sleeping-beauty.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/942/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/942/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/942/audio.mp3" length="13209392" type="audio/mpeg" />
+
+	<pubDate>Sun, 01 Jan 2012 00:48:35 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/942/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: strange and unusual erhuaization</title>
+
+	<itunes:summary><![CDATA[intermediate: strange and unusual erhuaization
+		<a href="http://popupchinese.com/data/935/intermediate-strange-and-unusual-erhuaization.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/935/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/935/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/935/audio.mp3" length="10225979" type="audio/mpeg" />
+
+	<pubDate>Sun, 01 Jan 2012 00:47:49 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/935/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: a national crisis</title>
+
+	<itunes:summary><![CDATA[intermediate: a national crisis
+		<a href="http://popupchinese.com/data/924/intermediate-a-national-crisis.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/924/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/924/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/924/audio.mp3" length="9771239" type="audio/mpeg" />
+
+	<pubDate>Sun, 01 Jan 2012 00:38:26 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/924/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: lead poisoning</title>
+
+	<itunes:summary><![CDATA[intermediate: lead poisoning
+		<a href="http://popupchinese.com/data/916/intermediate-lead-poisoning.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/916/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/916/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/916/audio.mp3" length="9683969" type="audio/mpeg" />
+
+	<pubDate>Fri, 15 Jun 2012 10:03:22 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/916/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: buried in the garden</title>
+
+	<itunes:summary><![CDATA[intermediate: buried in the garden
+		<a href="http://popupchinese.com/data/906/intermediate-buried-in-the-garden.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/906/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/906/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/906/audio.mp3" length="12902338" type="audio/mpeg" />
+
+	<pubDate>Sun, 01 Jan 2012 00:35:48 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/906/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the inferno</title>
+
+	<itunes:summary><![CDATA[intermediate: the inferno
+		<a href="http://popupchinese.com/data/893/intermediate-the-inferno.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/893/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/893/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/893/audio.mp3" length="729173" type="audio/mpeg" />
+
+	<pubDate>Sun, 01 Jan 2012 00:34:07 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/893/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: dinner with the party</title>
+
+	<itunes:summary><![CDATA[intermediate: dinner with the party
+		<a href="http://popupchinese.com/data/892/intermediate-dinner-with-the-party.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/892/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/892/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/892/audio.mp3" length="7727084" type="audio/mpeg" />
+
+	<pubDate>Sun, 01 Jan 2012 00:34:01 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/892/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: pirate zombie bank teller</title>
+
+	<itunes:summary><![CDATA[intermediate: pirate zombie bank teller
+		<a href="http://popupchinese.com/data/873/intermediate-pirate-zombie-bank-teller.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/873/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/873/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/873/audio.mp3" length="8891456" type="audio/mpeg" />
+
+	<pubDate>Sun, 01 Jan 2012 00:30:13 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/873/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: harry potter 8</title>
+
+	<itunes:summary><![CDATA[intermediate: harry potter 8
+		<a href="http://popupchinese.com/data/865/intermediate-harry-potter-8.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/865/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/865/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/865/audio.mp3" length="10077331" type="audio/mpeg" />
+
+	<pubDate>Sun, 01 Jan 2012 00:28:56 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/865/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the criminal mastermind</title>
+
+	<itunes:summary><![CDATA[intermediate: the criminal mastermind
+		<a href="http://popupchinese.com/data/864/intermediate-the-criminal-mastermind.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/864/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/864/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/864/audio.mp3" length="10333540" type="audio/mpeg" />
+
+	<pubDate>Mon, 30 Dec 2013 10:27:39 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/864/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: future x cops</title>
+
+	<itunes:summary><![CDATA[intermediate: future x cops
+		<a href="http://popupchinese.com/data/854/intermediate-future-x-cops.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/854/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/854/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/854/audio.mp3" length="11631513" type="audio/mpeg" />
+
+	<pubDate>Sun, 01 Jan 2012 00:27:41 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/854/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the disease podcast</title>
+
+	<itunes:summary><![CDATA[intermediate: the disease podcast
+		<a href="http://popupchinese.com/data/853/intermediate-the-disease-podcast.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/853/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/853/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/853/audio.mp3" length="7935667" type="audio/mpeg" />
+
+	<pubDate>Sun, 01 Jan 2012 00:27:17 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/853/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: mountaineering</title>
+
+	<itunes:summary><![CDATA[intermediate: mountaineering
+		<a href="http://popupchinese.com/data/844/intermediate-mountaineering.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/844/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/844/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/844/audio.mp3" length="8388358" type="audio/mpeg" />
+
+	<pubDate>Mon, 06 Aug 2012 03:40:41 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/844/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: unleashing the cougar</title>
+
+	<itunes:summary><![CDATA[intermediate: unleashing the cougar
+		<a href="http://popupchinese.com/data/832/intermediate-unleashing-the-cougar.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/832/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/832/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/832/audio.mp3" length="8819442" type="audio/mpeg" />
+
+	<pubDate>Sun, 01 Jan 2012 00:23:40 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/832/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: raising a pirate crew</title>
+
+	<itunes:summary><![CDATA[intermediate: raising a pirate crew
+		<a href="http://popupchinese.com/data/831/intermediate-raising-a-pirate-crew.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/831/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/831/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/831/audio.mp3" length="9850672" type="audio/mpeg" />
+
+	<pubDate>Sun, 01 Jan 2012 00:23:21 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/831/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the spanish main</title>
+
+	<itunes:summary><![CDATA[intermediate: the spanish main
+		<a href="http://popupchinese.com/data/830/intermediate-the-spanish-main.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/830/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/830/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/830/audio.mp3" length="8596042" type="audio/mpeg" />
+
+	<pubDate>Sun, 01 Jan 2012 00:23:03 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/830/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: upholding community standards</title>
+
+	<itunes:summary><![CDATA[intermediate: upholding community standards
+		<a href="http://popupchinese.com/data/815/intermediate-upholding-community-standards.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/815/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/815/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/815/audio.mp3" length="11229729" type="audio/mpeg" />
+
+	<pubDate>Sun, 01 Jan 2012 00:20:47 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/815/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: i wasnt kidding</title>
+
+	<itunes:summary><![CDATA[intermediate: i wasnt kidding
+		<a href="http://popupchinese.com/data/805/intermediate-i-wasnt-kidding.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/805/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/805/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/805/audio.mp3" length="10083225" type="audio/mpeg" />
+
+	<pubDate>Thu, 28 Jun 2012 07:34:04 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/805/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: good cop good cop</title>
+
+	<itunes:summary><![CDATA[intermediate: good cop good cop
+		<a href="http://popupchinese.com/data/803/intermediate-good-cop-good-cop.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/803/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/803/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/803/audio.mp3" length="12487180" type="audio/mpeg" />
+
+	<pubDate>Wed, 03 Jul 2013 01:56:18 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/803/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: broadway musicals in chinese</title>
+
+	<itunes:summary><![CDATA[intermediate: broadway musicals in chinese
+		<a href="http://popupchinese.com/data/795/intermediate-broadway-musicals-in-chinese.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/795/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/795/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/795/audio.mp3" length="2260554" type="audio/mpeg" />
+
+	<pubDate>Sun, 01 Jan 2012 00:15:38 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/795/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: chairman of the board</title>
+
+	<itunes:summary><![CDATA[intermediate: chairman of the board
+		<a href="http://popupchinese.com/data/788/intermediate-chairman-of-the-board.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/788/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/788/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/788/audio.mp3" length="10565487" type="audio/mpeg" />
+
+	<pubDate>Sun, 01 Jan 2012 00:13:45 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/788/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: driving under inception</title>
+
+	<itunes:summary><![CDATA[intermediate: driving under inception
+		<a href="http://popupchinese.com/data/787/intermediate-driving-under-inception.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/787/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/787/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/787/audio.mp3" length="13186864" type="audio/mpeg" />
+
+	<pubDate>Sun, 01 Jan 2012 00:13:25 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/787/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the apprentice</title>
+
+	<itunes:summary><![CDATA[intermediate: the apprentice
+		<a href="http://popupchinese.com/data/783/intermediate-the-apprentice.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/783/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/783/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/783/audio.mp3" length="10498906" type="audio/mpeg" />
+
+	<pubDate>Sun, 01 Jan 2012 00:12:31 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/783/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: get off my lawn</title>
+
+	<itunes:summary><![CDATA[intermediate: get off my lawn
+		<a href="http://popupchinese.com/data/777/intermediate-get-off-my-lawn.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/777/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/777/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/777/audio.mp3" length="10038273" type="audio/mpeg" />
+
+	<pubDate>Sun, 01 Jan 2012 00:11:29 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/777/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: an end to the feeding frenzy</title>
+
+	<itunes:summary><![CDATA[intermediate: an end to the feeding frenzy
+		<a href="http://popupchinese.com/data/770/intermediate-an-end-to-the-feeding-frenzy.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/770/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/770/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/770/audio.mp3" length="10444864" type="audio/mpeg" />
+
+	<pubDate>Mon, 08 Jul 2013 07:14:01 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/770/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: golden monkey throat lozenges part ii</title>
+
+	<itunes:summary><![CDATA[intermediate: golden monkey throat lozenges part ii
+		<a href="http://popupchinese.com/data/768/intermediate-golden-monkey-throat-lozenges-part-ii.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/768/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/768/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/768/audio.mp3" length="13349179" type="audio/mpeg" />
+
+	<pubDate>Wed, 10 Jul 2013 03:19:49 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/768/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: harry potter in chinese</title>
+
+	<itunes:summary><![CDATA[intermediate: harry potter in chinese
+		<a href="http://popupchinese.com/data/753/intermediate-harry-potter-in-chinese.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/753/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/753/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/753/audio.mp3" length="11243981" type="audio/mpeg" />
+
+	<pubDate>Mon, 16 Apr 2012 09:20:38 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/753/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: a life of science</title>
+
+	<itunes:summary><![CDATA[intermediate: a life of science
+		<a href="http://popupchinese.com/data/750/intermediate-a-life-of-science.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/750/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/750/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/750/audio.mp3" length="11286780" type="audio/mpeg" />
+
+	<pubDate>Tue, 19 Mar 2013 06:07:41 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/750/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: trapped in a sea cave</title>
+
+	<itunes:summary><![CDATA[intermediate: trapped in a sea cave
+		<a href="http://popupchinese.com/data/724/intermediate-trapped-in-a-sea-cave.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/724/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/724/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/724/audio.mp3" length="11346694" type="audio/mpeg" />
+
+	<pubDate>Sun, 01 Jan 2012 00:00:15 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/724/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: international schools in china</title>
+
+	<itunes:summary><![CDATA[intermediate: international schools in china
+		<a href="http://popupchinese.com/data/708/intermediate-international-schools-in-china.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/708/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/708/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/708/audio.mp3" length="10272477" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 23:56:56 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/708/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: meet the neighbors part ii</title>
+
+	<itunes:summary><![CDATA[intermediate: meet the neighbors part ii
+		<a href="http://popupchinese.com/data/693/intermediate-meet-the-neighbors-part-ii.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/693/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/693/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/693/audio.mp3" length="10234777" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 23:54:45 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/693/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: meet the neighbors part i</title>
+
+	<itunes:summary><![CDATA[intermediate: meet the neighbors part i
+		<a href="http://popupchinese.com/data/692/intermediate-meet-the-neighbors-part-i.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/692/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/692/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/692/audio.mp3" length="10800275" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 23:54:24 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/692/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: a late night in the studio</title>
+
+	<itunes:summary><![CDATA[intermediate: a late night in the studio
+		<a href="http://popupchinese.com/data/678/intermediate-a-late-night-in-the-studio.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/678/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/678/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/678/audio.mp3" length="9967283" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 23:51:51 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/678/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the family secret</title>
+
+	<itunes:summary><![CDATA[intermediate: the family secret
+		<a href="http://popupchinese.com/data/666/intermediate-the-family-secret.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/666/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/666/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/666/audio.mp3" length="9863190" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 23:49:38 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/666/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the young inventor part ii</title>
+
+	<itunes:summary><![CDATA[intermediate: the young inventor part ii
+		<a href="http://popupchinese.com/data/655/intermediate-the-young-inventor-part-ii.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/655/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/655/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/655/audio.mp3" length="10255758" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 23:47:21 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/655/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the young inventor</title>
+
+	<itunes:summary><![CDATA[intermediate: the young inventor
+		<a href="http://popupchinese.com/data/653/intermediate-the-young-inventor.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/653/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/653/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/653/audio.mp3" length="11373423" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 23:46:44 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/653/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: great actors of the twentieth century</title>
+
+	<itunes:summary><![CDATA[intermediate: great actors of the twentieth century
+		<a href="http://popupchinese.com/data/636/intermediate-great-actors-of-the-twentieth-century.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/636/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/636/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/636/audio.mp3" length="11458791" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 23:44:06 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/636/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: a taste of the whip</title>
+
+	<itunes:summary><![CDATA[intermediate: a taste of the whip
+		<a href="http://popupchinese.com/data/628/intermediate-a-taste-of-the-whip.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/628/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/628/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/628/audio.mp3" length="11984249" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 23:42:34 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/628/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the rumor mill</title>
+
+	<itunes:summary><![CDATA[intermediate: the rumor mill
+		<a href="http://popupchinese.com/data/614/intermediate-the-rumor-mill.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/614/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/614/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/614/audio.mp3" length="8633199" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 23:40:06 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/614/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: how to start a business in china</title>
+
+	<itunes:summary><![CDATA[intermediate: how to start a business in china
+		<a href="http://popupchinese.com/data/613/intermediate-how-to-start-a-business-in-china.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/613/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/613/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/613/audio.mp3" length="9611098" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 23:39:47 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/613/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: how to defuse a bomb</title>
+
+	<itunes:summary><![CDATA[intermediate: how to defuse a bomb
+		<a href="http://popupchinese.com/data/603/intermediate-how-to-defuse-a-bomb.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/603/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/603/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/603/audio.mp3" length="9942790" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 23:38:32 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/603/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: home sweet apache helicopter</title>
+
+	<itunes:summary><![CDATA[intermediate: home sweet apache helicopter
+		<a href="http://popupchinese.com/data/592/intermediate-home-sweet-apache-helicopter.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/592/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/592/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/592/audio.mp3" length="12269638" type="audio/mpeg" />
+
+	<pubDate>Wed, 28 Mar 2012 09:27:58 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/592/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: payday</title>
+
+	<itunes:summary><![CDATA[intermediate: payday
+		<a href="http://popupchinese.com/data/584/intermediate-payday.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/584/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/584/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/584/audio.mp3" length="753248" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 23:35:42 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/584/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: a serious shortage of trousers</title>
+
+	<itunes:summary><![CDATA[intermediate: a serious shortage of trousers
+		<a href="http://popupchinese.com/data/583/intermediate-a-serious-shortage-of-trousers.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/583/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/583/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/583/audio.mp3" length="10956280" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 23:35:34 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/583/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: a college education</title>
+
+	<itunes:summary><![CDATA[intermediate: a college education
+		<a href="http://popupchinese.com/data/579/intermediate-a-college-education.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/579/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/579/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/579/audio.mp3" length="10641243" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 23:34:27 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/579/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the law of the sea</title>
+
+	<itunes:summary><![CDATA[intermediate: the law of the sea
+		<a href="http://popupchinese.com/data/572/intermediate-the-law-of-the-sea.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/572/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/572/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/572/audio.mp3" length="899826" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 23:33:06 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/572/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: a sudden case of acrophobia</title>
+
+	<itunes:summary><![CDATA[intermediate: a sudden case of acrophobia
+		<a href="http://popupchinese.com/data/566/intermediate-a-sudden-case-of-acrophobia.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/566/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/566/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/566/audio.mp3" length="10871161" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 23:31:59 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/566/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: plants vs zombies</title>
+
+	<itunes:summary><![CDATA[intermediate: plants vs zombies
+		<a href="http://popupchinese.com/data/547/intermediate-plants-vs-zombies.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/547/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/547/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/547/audio.mp3" length="10128260" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 23:29:05 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/547/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: a dangerous chinese lesson</title>
+
+	<itunes:summary><![CDATA[intermediate: a dangerous chinese lesson
+		<a href="http://popupchinese.com/data/546/intermediate-a-dangerous-chinese-lesson.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/546/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/546/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/546/audio.mp3" length="7686751" type="audio/mpeg" />
+
+	<pubDate>Fri, 16 Aug 2013 17:29:59 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/546/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: a murder mystery</title>
+
+	<itunes:summary><![CDATA[intermediate: a murder mystery
+		<a href="http://popupchinese.com/data/538/intermediate-a-murder-mystery.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/538/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/538/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/538/audio.mp3" length="8487916" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 23:26:54 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/538/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the legend of the ophone</title>
+
+	<itunes:summary><![CDATA[intermediate: the legend of the ophone
+		<a href="http://popupchinese.com/data/537/intermediate-the-legend-of-the-ophone.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/537/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/537/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/537/audio.mp3" length="8305644" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 23:26:36 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/537/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the nobel peace prize</title>
+
+	<itunes:summary><![CDATA[intermediate: the nobel peace prize
+		<a href="http://popupchinese.com/data/531/intermediate-the-nobel-peace-prize.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/531/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/531/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/531/audio.mp3" length="10016832" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 23:25:18 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/531/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the airlock</title>
+
+	<itunes:summary><![CDATA[intermediate: the airlock
+		<a href="http://popupchinese.com/data/523/intermediate-the-airlock.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/523/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/523/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/523/audio.mp3" length="1100571" type="audio/mpeg" />
+
+	<pubDate>Tue, 31 Jul 2012 09:45:55 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/523/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the gay vampire part ii</title>
+
+	<itunes:summary><![CDATA[intermediate: the gay vampire part ii
+		<a href="http://popupchinese.com/data/522/intermediate-the-gay-vampire-part-ii.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/522/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/522/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/522/audio.mp3" length="11065303" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 23:22:58 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/522/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the gay vampire</title>
+
+	<itunes:summary><![CDATA[intermediate: the gay vampire
+		<a href="http://popupchinese.com/data/508/intermediate-the-gay-vampire.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/508/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/508/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/508/audio.mp3" length="11483074" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 23:20:20 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/508/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: mcdonalds delivery hotline</title>
+
+	<itunes:summary><![CDATA[intermediate: mcdonalds delivery hotline
+		<a href="http://popupchinese.com/data/474/intermediate-mcdonalds-delivery-hotline.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/474/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/474/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/474/audio.mp3" length="8870328" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 23:15:09 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/474/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: your dog looks a little</title>
+
+	<itunes:summary><![CDATA[intermediate: your dog looks a little
+		<a href="http://popupchinese.com/data/462/intermediate-your-dog-looks-a-little.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/462/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/462/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/462/audio.mp3" length="7745391" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 23:12:51 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/462/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the music teacher</title>
+
+	<itunes:summary><![CDATA[intermediate: the music teacher
+		<a href="http://popupchinese.com/data/473/intermediate-the-music-teacher.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/473/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/473/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/473/audio.mp3" length="9082965" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 23:14:43 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/473/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the police hotline</title>
+
+	<itunes:summary><![CDATA[intermediate: the police hotline
+		<a href="http://popupchinese.com/data/466/intermediate-the-police-hotline.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/466/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/466/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/466/audio.mp3" length="986322" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 23:13:41 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/466/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: global warming</title>
+
+	<itunes:summary><![CDATA[intermediate: global warming
+		<a href="http://popupchinese.com/data/402/intermediate-global-warming.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/402/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/402/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/402/audio.mp3" length="7342290" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 23:02:33 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/402/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: lifehacker in china</title>
+
+	<itunes:summary><![CDATA[intermediate: lifehacker in china
+		<a href="http://popupchinese.com/data/446/intermediate-lifehacker-in-china.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/446/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/446/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/446/audio.mp3" length="707502" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 23:11:10 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/446/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the orphanage</title>
+
+	<itunes:summary><![CDATA[intermediate: the orphanage
+		<a href="http://popupchinese.com/data/432/intermediate-the-orphanage.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/432/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/432/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/432/audio.mp3" length="9046122" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 23:08:38 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/432/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: locked in the studio</title>
+
+	<itunes:summary><![CDATA[intermediate: locked in the studio
+		<a href="http://popupchinese.com/data/431/intermediate-locked-in-the-studio.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/431/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/431/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/431/audio.mp3" length="9145638" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 23:08:18 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/431/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: how to swear in chinese</title>
+
+	<itunes:summary><![CDATA[intermediate: how to swear in chinese
+		<a href="http://popupchinese.com/data/427/intermediate-how-to-swear-in-chinese.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/427/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/427/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/427/audio.mp3" length="9767624" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 23:06:34 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/427/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: a new home</title>
+
+	<itunes:summary><![CDATA[intermediate: a new home
+		<a href="http://popupchinese.com/data/416/intermediate-a-new-home.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/416/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/416/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/416/audio.mp3" length="8165921" type="audio/mpeg" />
+
+	<pubDate>Mon, 26 Nov 2012 05:20:01 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/416/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the advertising age</title>
+
+	<itunes:summary><![CDATA[intermediate: the advertising age
+		<a href="http://popupchinese.com/data/403/intermediate-the-advertising-age.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/403/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/403/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/403/audio.mp3" length="7043010" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 23:02:46 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/403/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: safari</title>
+
+	<itunes:summary><![CDATA[intermediate: safari
+		<a href="http://popupchinese.com/data/405/intermediate-safari.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/405/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/405/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/405/audio.mp3" length="8196996" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 23:03:04 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/405/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the future tense</title>
+
+	<itunes:summary><![CDATA[intermediate: the future tense
+		<a href="http://popupchinese.com/data/395/intermediate-the-future-tense.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/395/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/395/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/395/audio.mp3" length="7705183" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 23:01:45 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/395/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the bank heist</title>
+
+	<itunes:summary><![CDATA[intermediate: the bank heist
+		<a href="http://popupchinese.com/data/362/intermediate-the-bank-heist.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/362/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/362/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/362/audio.mp3" length="8410322" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 22:56:50 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/362/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: they called me mad the fools</title>
+
+	<itunes:summary><![CDATA[intermediate: they called me mad the fools
+		<a href="http://popupchinese.com/data/369/intermediate-they-called-me-mad-the-fools.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/369/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/369/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/369/audio.mp3" length="7928562" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 22:58:16 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/369/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: a terrible hunger</title>
+
+	<itunes:summary><![CDATA[intermediate: a terrible hunger
+		<a href="http://popupchinese.com/data/360/intermediate-a-terrible-hunger.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/360/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/360/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/360/audio.mp3" length="8575395" type="audio/mpeg" />
+
+	<pubDate>Wed, 04 Jul 2012 09:05:22 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/360/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: chinese love in a time of war</title>
+
+	<itunes:summary><![CDATA[intermediate: chinese love in a time of war
+		<a href="http://popupchinese.com/data/357/intermediate-chinese-love-in-a-time-of-war.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/357/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/357/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/357/audio.mp3" length="7912868" type="audio/mpeg" />
+
+	<pubDate>Mon, 17 Sep 2012 04:15:27 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/357/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: a parasitic relationship</title>
+
+	<itunes:summary><![CDATA[intermediate: a parasitic relationship
+		<a href="http://popupchinese.com/data/356/intermediate-a-parasitic-relationship.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/356/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/356/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/356/audio.mp3" length="871781" type="audio/mpeg" />
+
+	<pubDate>Mon, 16 Apr 2012 06:57:57 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/356/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: killing the mole</title>
+
+	<itunes:summary><![CDATA[intermediate: killing the mole
+		<a href="http://popupchinese.com/data/352/intermediate-killing-the-mole.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/352/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/352/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/352/audio.mp3" length="7256735" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 22:54:06 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/352/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: porn for panda</title>
+
+	<itunes:summary><![CDATA[intermediate: porn for panda
+		<a href="http://popupchinese.com/data/327/intermediate-porn-for-panda.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/327/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/327/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/327/audio.mp3" length="8736394" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 22:50:50 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/327/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: my life as a writer</title>
+
+	<itunes:summary><![CDATA[intermediate: my life as a writer
+		<a href="http://popupchinese.com/data/324/intermediate-my-life-as-a-writer.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/324/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/324/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/324/audio.mp3" length="878343" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 22:50:12 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/324/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: unconventional child rearing</title>
+
+	<itunes:summary><![CDATA[intermediate: unconventional child rearing
+		<a href="http://popupchinese.com/data/315/intermediate-unconventional-child-rearing.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/315/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/315/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/315/audio.mp3" length="7141544" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 22:48:44 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/315/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: pet sitting</title>
+
+	<itunes:summary><![CDATA[intermediate: pet sitting
+		<a href="http://popupchinese.com/data/303/intermediate-pet-sitting.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/303/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/303/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/303/audio.mp3" length="8237057" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 22:47:08 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/303/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: chocolate cake</title>
+
+	<itunes:summary><![CDATA[intermediate: chocolate cake
+		<a href="http://popupchinese.com/data/286/intermediate-chocolate-cake.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/286/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/286/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/286/audio.mp3" length="7465276" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 22:44:48 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/286/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: year end bonus</title>
+
+	<itunes:summary><![CDATA[intermediate: year end bonus
+		<a href="http://popupchinese.com/data/283/intermediate-year-end-bonus.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/283/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/283/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/283/audio.mp3" length="1190329" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 22:44:00 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/283/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: a visit to the doctor</title>
+
+	<itunes:summary><![CDATA[intermediate: a visit to the doctor
+		<a href="http://popupchinese.com/data/262/intermediate-a-visit-to-the-doctor.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/262/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/262/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/262/audio.mp3" length="8900609" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 22:41:55 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/262/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the art of the move</title>
+
+	<itunes:summary><![CDATA[intermediate: the art of the move
+		<a href="http://popupchinese.com/data/249/intermediate-the-art-of-the-move.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/249/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/249/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/249/audio.mp3" length="811991" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 22:40:28 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/249/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: merry christmas</title>
+
+	<itunes:summary><![CDATA[intermediate: merry christmas
+		<a href="http://popupchinese.com/data/240/intermediate-merry-christmas.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/240/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/240/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/240/audio.mp3" length="11612349" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 22:39:41 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/240/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the northeasterner</title>
+
+	<itunes:summary><![CDATA[intermediate: the northeasterner
+		<a href="http://popupchinese.com/data/229/intermediate-the-northeasterner.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/229/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/229/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/229/audio.mp3" length="7549975" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 22:37:44 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/229/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: modern romance</title>
+
+	<itunes:summary><![CDATA[intermediate: modern romance
+		<a href="http://popupchinese.com/data/230/intermediate-modern-romance.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/230/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/230/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/230/audio.mp3" length="7562033" type="audio/mpeg" />
+
+	<pubDate>Tue, 06 Mar 2012 15:37:37 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/230/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: titanic a chinese romance</title>
+
+	<itunes:summary><![CDATA[intermediate: titanic a chinese romance
+		<a href="http://popupchinese.com/data/213/intermediate-titanic-a-chinese-romance.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/213/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/213/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/213/audio.mp3" length="8357556" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 22:35:59 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/213/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: in cold blood</title>
+
+	<itunes:summary><![CDATA[intermediate: in cold blood
+		<a href="http://popupchinese.com/data/192/intermediate-in-cold-blood.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/192/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/192/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/192/audio.mp3" length="1140132" type="audio/mpeg" />
+
+	<pubDate>Tue, 06 Mar 2012 15:40:40 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/192/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: golden monkey throat lozenges</title>
+
+	<itunes:summary><![CDATA[intermediate: golden monkey throat lozenges
+		<a href="http://popupchinese.com/data/170/intermediate-golden-monkey-throat-lozenges.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/170/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/170/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/170/audio.mp3" length="7835274" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 22:32:09 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/170/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: the argument</title>
+
+	<itunes:summary><![CDATA[intermediate: the argument
+		<a href="http://popupchinese.com/data/169/intermediate-the-argument.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/169/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/169/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/169/audio.mp3" length="658288" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 22:31:59 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/169/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: slacking off</title>
+
+	<itunes:summary><![CDATA[intermediate: slacking off
+		<a href="http://popupchinese.com/data/156/intermediate-slacking-off.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/156/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/156/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/156/audio.mp3" length="8685215" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 22:30:10 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/156/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: blackout</title>
+
+	<itunes:summary><![CDATA[intermediate: blackout
+		<a href="http://popupchinese.com/data/146/intermediate-blackout.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/146/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/146/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/146/audio.mp3" length="8946565" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 22:29:54 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/146/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: market for lehmans</title>
+
+	<itunes:summary><![CDATA[intermediate: market for lehmans
+		<a href="http://popupchinese.com/data/116/intermediate-market-for-lehmans.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/116/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/116/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/116/audio.mp3" length="11014878" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 22:27:52 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/116/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: hiring in hangzhou</title>
+
+	<itunes:summary><![CDATA[intermediate: hiring in hangzhou
+		<a href="http://popupchinese.com/data/104/intermediate-hiring-in-hangzhou.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/104/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/104/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/104/audio.mp3" length="1415839" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 22:27:00 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/104/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: dude looks like a lady</title>
+
+	<itunes:summary><![CDATA[intermediate: dude looks like a lady
+		<a href="http://popupchinese.com/data/25/intermediate-dude-looks-like-a-lady.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/25/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/25/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/25/audio.mp3" length="6398706" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 22:22:52 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/25/image.jpg"/>
+
+</item>
+
+<item>
+
+	<title>intermediate: network down</title>
+
+	<itunes:summary><![CDATA[intermediate: network down
+		<a href="http://popupchinese.com/data/59/intermediate-network-down.pdf">PDF transcript</a>
+		<a href="http://popupchinese.com/data/59/audio.mp3">MP3 Download</a>
+	]]></itunes:summary>
+
+	<guid>http://popupchinese.com/data/59/audio.mp3</guid>
+
+	<enclosure url="http://popupchinese.com/data/59/audio.mp3" length="12360393" type="audio/mpeg" />
+
+	<pubDate>Sat, 31 Dec 2011 22:24:05 +0000</pubDate>
+
+	<itunes:author>Popup Chinese</itunes:author>
+
+	<itunes:explicit>no</itunes:explicit>
+
+	<itunes:image href="http://popupchinese.com/data/59/image.jpg"/>
+
+</item>
+
+</channel>
+
+</rss>
+
