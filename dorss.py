@@ -54,7 +54,7 @@ def doline(id,url,pdf,audio):
     for thing in heads:
         if thing.startswith("Last-Modified"):
             date=thing.removeprefix("Last-Modified:").strip()
-            date=date.replace("GMT","0000")
+            date=date.replace("GMT","+0000")
         if thing.startswith("Content-Length"):
             conlen=thing.removeprefix("Content-Length:").strip()
 
