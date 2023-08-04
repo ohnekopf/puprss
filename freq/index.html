@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>foobar</title>
+</head>
+<body>
+	<header>
+		<h1>Freq Check</h1>
+		<p>Based on <a href="https://github.com/MarvNC/yomichan-dictionaries#chinese-frequency">this</a> frequency dictionary</p>
+		<p>Input one or more hanzi to get word that contain it in frequency order.</p>
+	</header>
+	<section>
+		<form action="javascript:;" onsubmit="ifenter(this)">
+			<input id="in" placeholder="enter character here" ></input>
+			<button  disabled="true" type="button" id="btn-add" onclick="ifenter()">Search</button>
+			<button type="button" id="btn-del" onclick="output([])">Delete</button>
+		<br>
+		</form>
+	</section>
+	<div id="outdiv"></div>
+	<script src="events.js"></script>
+</body>
+</html>
