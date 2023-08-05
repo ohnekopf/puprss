@@ -117,6 +117,7 @@ function tblupdate () { //this should be a method
 	}else{
 		fwrd.disabled=false;
 	}
+	mandarinspot.annotate();
 }
 
 
